@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이승현의 깃허브👋
 
 <!--
 **honeyhyuni/honeyhyuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark)   
+![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjfkqwkd001)](https://solved.ac/tjfkqwkd001)

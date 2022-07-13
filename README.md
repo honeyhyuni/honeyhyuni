@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjfkqwkd001)](https://solved.ac/tjfkqwkd001)
 
-![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark)
+<!--![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark) -->
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyhyuni&layout=compact&theme=dark)
 

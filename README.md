@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 <a href="https://plastic-paneer-24d.notion.site/Study-ad3ba50bd5a24252b0de711ad77ffca8" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjfkqwkd001)](https://solved.ac/tjfkqwkd001)
-<!-- ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyhyuni&layout=compact&theme=dark) 
-![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark)-->
+
+![honeyhyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyhyuni&show_icons=true&theme=dark)
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyhyuni&layout=compact&theme=dark)
+

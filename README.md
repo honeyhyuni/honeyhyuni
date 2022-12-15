@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DjangoRestFramework](https://img.shields.io/badge/drf-092E20?style=for-the-badge&logo=drf&logoColor=white)
+![DjangoRestFramework](https://img.shields.io/badge/drf-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
